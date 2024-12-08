@@ -1,0 +1,11 @@
+Model Information:
+* title:	Business Man - Low Polygon game character
+* source:	https://sketchfab.com/3d-models/business-man-low-polygon-game-character-0b22c3ea54c44c2cadbc601b918657e5
+* author:	Muntashir Al-Abid (https://sketchfab.com/muntashir_al_abid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Business Man - Low Polygon game character" (https://sketchfab.com/3d-models/business-man-low-polygon-game-character-0b22c3ea54c44c2cadbc601b918657e5) by Muntashir Al-Abid (https://sketchfab.com/muntashir_al_abid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

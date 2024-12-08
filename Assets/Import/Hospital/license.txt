@@ -1,0 +1,11 @@
+Model Information:
+* title:	Funky Hospital
+* source:	https://sketchfab.com/3d-models/funky-hospital-84a173c742d7427a913b0ad60168f2cc
+* author:	artificialorange (https://sketchfab.com/artificialorange)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Funky Hospital" (https://sketchfab.com/3d-models/funky-hospital-84a173c742d7427a913b0ad60168f2cc) by artificialorange (https://sketchfab.com/artificialorange) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
