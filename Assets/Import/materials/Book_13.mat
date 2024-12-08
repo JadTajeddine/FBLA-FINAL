@@ -3,12 +3,26 @@
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Book_13
   m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
+=======
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Assets/Import/SKIMS__x_Ounass_Pop_up_store_by_Harlequin_2.0/materials/material_0_0.mat
+  m_Name: material_0_0
+  m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
+========
+  m_Name: Book_13
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a:Assets/Import/materials/Book_13.mat
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -223,7 +237,11 @@ Material:
     - _LinkDetailsWithBase: 0
     - _MaterialID: 1
     - _Metallic: 0
+<<<<<<< HEAD
     - _MetallicRemapMax: 1
+=======
+    - _MetallicRemapMax: 0
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _MetallicRemapMin: 0
     - _Mode: 0
     - _NormalMapSpace: 0
@@ -243,8 +261,13 @@ Material:
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
+<<<<<<< HEAD
     - _Smoothness: 0.5
     - _SmoothnessRemapMax: 0.5
+=======
+    - _Smoothness: 0.39999998
+    - _SmoothnessRemapMax: 0.39999998
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularAAScreenSpaceVariance: 0.1
@@ -303,7 +326,11 @@ Material:
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+<<<<<<< HEAD
 --- !u!114 &9205740900278095781
+=======
+--- !u!114 &6306608562481497405
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

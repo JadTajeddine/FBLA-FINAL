@@ -1,6 +1,10 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
 --- !u!114 &-8557065116454026673
+=======
+--- !u!114 &-6957385604692574647
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -19,12 +23,26 @@ MonoBehaviour:
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
+<<<<<<< HEAD
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: backroom_floor_28
   m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
+=======
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Assets/Import/SKIMS__x_Ounass_Pop_up_store_by_Harlequin_2.0/materials/Material.012_10.mat
+  m_Name: Material.012_10
+  m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
+========
+  m_Name: backroom_floor_28
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a:Assets/Import/materials/backroom_floor_28.mat
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -51,7 +69,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
+<<<<<<< HEAD
         m_Texture: {fileID: 2800000, guid: eaef35a2aeb22a24cbf632fa8c056f1f, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: cb79747d48ce36642a6293b823451820, type: 3}
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -107,7 +129,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<< HEAD
         m_Texture: {fileID: 2800000, guid: eaef35a2aeb22a24cbf632fa8c056f1f, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: 5155a40a8cb9f2c489ec88e1e4bf0f44, type: 3}
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
@@ -239,7 +265,11 @@ Material:
     - _LinkDetailsWithBase: 0
     - _MaterialID: 1
     - _Metallic: 0
+<<<<<<< HEAD
     - _MetallicRemapMax: 1
+=======
+    - _MetallicRemapMax: 0
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _MetallicRemapMin: 0
     - _Mode: 0
     - _NormalMapSpace: 0
@@ -259,8 +289,13 @@ Material:
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
+<<<<<<< HEAD
     - _Smoothness: 0
     - _SmoothnessRemapMax: 0
+=======
+    - _Smoothness: 0.5
+    - _SmoothnessRemapMax: 0.5
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularAAScreenSpaceVariance: 0.1

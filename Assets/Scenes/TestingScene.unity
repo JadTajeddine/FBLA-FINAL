@@ -2633,8 +2633,16 @@ SceneRoots:
   - {fileID: 1764339720}
   - {fileID: 616732937}
   - {fileID: 74861140}
+<<<<<<< HEAD
 <<<<<<< HEAD:Assets/OutdoorsScene.unity
   - {fileID: 1356441846}
 =======
   - {fileID: 116001444}
 >>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a:Assets/Scenes/TestingScene.unity
+=======
+<<<<<<<< HEAD:Assets/OutdoorsScene.unity
+  - {fileID: 1356441846}
+========
+  - {fileID: 116001444}
+>>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a:Assets/Scenes/TestingScene.unity
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a

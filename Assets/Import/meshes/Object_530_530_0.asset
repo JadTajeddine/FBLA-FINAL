@@ -27,13 +27,18 @@ Mesh:
   m_BindPose:
   - e00: 1
     e01: 0
+<<<<<<< HEAD
     e02: -0
+=======
+    e02: 0
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     e03: 0
     e10: 0
     e11: 1
     e12: 0
     e13: 0
     e20: 0
+<<<<<<< HEAD
     e21: -0
     e22: 1
     e23: -0
@@ -53,17 +58,26 @@ Mesh:
     e21: -0
     e22: 1
     e23: -3.7585616
+=======
+    e21: 0
+    e22: 1
+    e23: 0
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     e30: 0
     e31: 0
     e32: 0
     e33: 1
   m_BoneNameHashes: 
   m_RootBoneNameHash: 0
+<<<<<<< HEAD
   m_BonesAABB:
   - m_Min: {x: Infinity, y: Infinity, z: Infinity}
     m_Max: {x: -Infinity, y: -Infinity, z: -Infinity}
   - m_Min: {x: -0.12181902, y: 0.0016955298, z: -1.0023746}
     m_Max: {x: 0.12931776, y: 2.3100922, z: -0.038893223}
+=======
+  m_BonesAABB: []
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
   m_VariableBoneCountWeights:
     m_Data: 
   m_MeshCompression: 0

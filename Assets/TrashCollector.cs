@@ -46,6 +46,13 @@ public class TrashCollector : MonoBehaviour
         }
     }
 
+    public void IncreaseScore() // New method to increase score
+    {
+        score++;
+        UpdateScoreText();
+        Debug.Log("Water filled! Score increased by 1.");
+    }
+
     void UpdateScoreText()
     {
         scoreText.text = "Score: " + score.ToString();

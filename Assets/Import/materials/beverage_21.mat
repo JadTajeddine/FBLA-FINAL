@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
 --- !u!114 &-3111707668541406435
 MonoBehaviour:
   m_ObjectHideFlags: 11
@@ -24,6 +25,17 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: beverage_21
+=======
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:Assets/Import/SKIMS__x_Ounass_Pop_up_store_by_Harlequin_2.0/materials/Material.006_3.mat
+  m_Name: Material.006_3
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
   m_Shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -32,6 +44,17 @@ Material:
   - _ENABLE_FOG_ON_TRANSPARENT
   - _NORMALMAP_TANGENT_SPACE
   - _SURFACE_TYPE_TRANSPARENT
+<<<<<<< HEAD
+=======
+========
+  m_Name: beverage_21
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ALPHABLEND_ON
+>>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a:Assets/Import/materials/beverage_21.mat
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -54,7 +77,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
+<<<<<<< HEAD
         m_Texture: {fileID: 2800000, guid: 55f5e0ed7665ca44bae66a6ff79eb969, type: 3}
+=======
+        m_Texture: {fileID: 0}
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BentNormalMap:
@@ -110,7 +137,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
+<<<<<<< HEAD
         m_Texture: {fileID: 2800000, guid: 55f5e0ed7665ca44bae66a6ff79eb969, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: 060105252a9bab645963ecfac68b2008, type: 3}
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
@@ -226,6 +257,10 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:Assets/Import/SKIMS__x_Ounass_Pop_up_store_by_Harlequin_2.0/materials/Material.006_3.mat
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _HeightAmplitude: 0.02
     - _HeightCenter: 0.5
     - _HeightMapParametrization: 0
@@ -241,9 +276,18 @@ Material:
     - _IridescenceThickness: 1
     - _LinkDetailsWithBase: 0
     - _MaterialID: 1
+<<<<<<< HEAD
     - _Metallic: 0
     - _MetallicRemapMax: 1
     - _MetallicRemapMin: 0
+=======
+    - _Metallic: 0.9638465
+    - _MetallicRemapMax: 0.9638465
+    - _MetallicRemapMin: 0
+========
+    - _Metallic: 0
+>>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a:Assets/Import/materials/beverage_21.mat
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _Mode: 3
     - _NormalMapSpace: 0
     - _NormalScale: 1
@@ -262,13 +306,22 @@ Material:
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
+<<<<<<< HEAD
     - _Smoothness: 0.5
     - _SmoothnessRemapMax: 0.5
+=======
+    - _Smoothness: 0.9194252
+    - _SmoothnessRemapMax: 0.9194252
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _SmoothnessRemapMin: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
     - _SpecularHighlights: 1
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:Assets/Import/SKIMS__x_Ounass_Pop_up_store_by_Harlequin_2.0/materials/Material.006_3.mat
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _SpecularOcclusionMode: 1
     - _SrcBlend: 1
     - _StencilRef: 0
@@ -297,6 +350,12 @@ Material:
     - _UVBase: 0
     - _UVDetail: 0
     - _UVEmissive: 0
+<<<<<<< HEAD
+=======
+========
+    - _SrcBlend: 5
+>>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a:Assets/Import/materials/beverage_21.mat
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _UVSec: 0
     - _UseEmissiveIntensity: 0
     - _UseShadowThreshold: 0
@@ -305,8 +364,14 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 0
     m_Colors:
+<<<<<<< HEAD
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+<<<<<<<< HEAD:Assets/Import/SKIMS__x_Ounass_Pop_up_store_by_Harlequin_2.0/materials/Material.006_3.mat
+    - _BaseColor: {r: 0.6401714, g: 0.6401714, b: 0.6401714, a: 0.28443894}
+    - _Color: {r: 0.6401714, g: 0.6401714, b: 0.6401714, a: 0.28443894}
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
@@ -320,5 +385,30 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_BuildTextureStacks: []
   m_AllowLocking: 1
+=======
+========
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a:Assets/Import/materials/beverage_21.mat
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &2066932557570897461
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 13
+  hdPluginSubTargetMaterialVersions:
+    m_Keys: []
+    m_Values: 
+>>>>>>> 6619c1854b50dcb8f2519ee41e8bb9f8b749f64a
